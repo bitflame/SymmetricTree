@@ -1,0 +1,7 @@
+C:\Users\usr\source\repos\SymmetricTree\SymmetricTree\bin\Debug\SymmetricTree.exe.config
+C:\Users\usr\source\repos\SymmetricTree\SymmetricTree\bin\Debug\SymmetricTree.exe
+C:\Users\usr\source\repos\SymmetricTree\SymmetricTree\bin\Debug\SymmetricTree.pdb
+C:\Users\usr\source\repos\SymmetricTree\SymmetricTree\obj\Debug\SymmetricTree.csprojAssemblyReference.cache
+C:\Users\usr\source\repos\SymmetricTree\SymmetricTree\obj\Debug\SymmetricTree.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\SymmetricTree\SymmetricTree\obj\Debug\SymmetricTree.exe
+C:\Users\usr\source\repos\SymmetricTree\SymmetricTree\obj\Debug\SymmetricTree.pdb
